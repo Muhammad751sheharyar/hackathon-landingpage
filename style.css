@@ -4,6 +4,7 @@
     background-color: gray;
 }
 .header{
+    /* margin-top: 20px; */
     position: relative;
     display: flex;
     justify-content: space-evenly;
@@ -245,6 +246,7 @@ h2{
 
 
 .aboutusMain{
+    margin-top: 100px;
     display: flex;
     height: 550px;
     width: 90%;
@@ -316,14 +318,18 @@ width: 50%;
 
 
 .questionMain{
+    /* margin-top: 50px; */
     display: flex;
     height: 500px;
     width: 100%;
     background-color: black;
 }
 .questionHeading{
-    font-size: 60px;
-    text-align: center;
+    margin-top: 100px;
+    width: 85%;
+/* background-color: red; */
+    font-size: 80px;
+    text-align:end;
 }
 .Questionform {
     display: flex;
@@ -359,6 +365,8 @@ textarea{
     border-radius: 30px;
     height: 40px;
     width: 100px;
+    background-color: #728bad;
+    border: none;
 }
 .questionText{
     justify-content: space-between;
