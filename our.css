@@ -209,6 +209,7 @@ width: 50%;
 
 }
 input{
+    background-color: black;
     font-size: 20px;
     margin-top: 20px;
     border-radius: 40px;
