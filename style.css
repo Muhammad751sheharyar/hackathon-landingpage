@@ -4,6 +4,8 @@
     background-color: gray;
 }
 .header{
+    height: 200px;
+
     /* margin-top: 20px; */
     position: relative;
     display: flex;

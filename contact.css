@@ -4,6 +4,10 @@
     background-color: gray;
 }
 .header{
+        border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: #1e0c06;
+    height: 150px;
     position: relative;
     display: flex;
     justify-content: space-evenly;

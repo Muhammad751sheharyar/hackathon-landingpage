@@ -4,6 +4,8 @@
     background-color: gray;
 }
 .header{
+    height: 200px;
+    background-color: #1e0c06;
     position: relative;
     display: flex;
     justify-content: space-evenly;
