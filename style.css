@@ -70,7 +70,8 @@ width: 100%;
     /* position: absolute; */
     height: 550px;
     width: 70%;
-    background-color: #222021;
+    background-color:#1e0c06;
+    font-family: sans-serif;
 }
 .text{
     height: 500px;
@@ -145,6 +146,7 @@ margin-left: 50px;
     height: 150px;
     width: 50%;
     font-size: 90px;
+    color: white;
 }
 .CardsSection{
     margin-top: 150px;
@@ -174,6 +176,7 @@ h2{
 
 }
 .workHeading{
+    color: white;
     margin-left: 250px;
     font-size: 90px;
     height: 100px;
@@ -189,6 +192,8 @@ h2{
     font-size: 50px;
 }
 .advantagesHeading{
+    color: white;
+
     margin-left: 250px;
     width: 400px;
     font-size: 60px;
@@ -268,6 +273,8 @@ h2{
     color: white;
 }
 .aboutHeading{
+    color: white;
+
     margin-top: 50px;
     width: 70%;
     text-align: center;
@@ -327,6 +334,8 @@ width: 50%;
     background-color: black;
 }
 .questionHeading{
+    color: white;
+
     margin-top: 100px;
     width: 85%;
 /* background-color: red; */

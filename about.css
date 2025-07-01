@@ -205,6 +205,9 @@ textarea{
     border-radius: 30px;
     height: 40px;
     width: 100px;
+    background-color:  #728bad;
+    color: white;
+    border: none;
 }
 .questionText{
     justify-content: space-between;
