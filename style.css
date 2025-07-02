@@ -69,7 +69,7 @@ width: 100%;
     background-image: url(./assects/heroleftbackground.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: red;
+    /* background-color: red; */
 }
 .heroTextbox{
     border-radius: 30px;
@@ -582,7 +582,7 @@ textarea{
 .questionHeading{
     text-align: start;
     font-size: 45px;
-    background-color: red;
+    /* background-color: red; */
     width: 100%;
 }
    .questionMain{
@@ -612,14 +612,24 @@ textarea{
     width: 100%;
  }
 
-
-
-
-
-
-
- .footerMain{
-    justify-items: center;
-flex-direction: column;
+.footerno{
+    display: flex;
+    justify-content: center;
+    /* margin:  0%  auto; */
+    /* background-color: red; */
+    width: 250%;
  }
+ .footerAdd{
+    display: flex;
+    justify-content: center;
+    width: 260%;
+ }
+ .privacy{
+    text-align: center;
+    /* background-color: red; */
+ }
+ .footerMain{
+    height: 300px;
+    margin-top: 10px;
+}
 }

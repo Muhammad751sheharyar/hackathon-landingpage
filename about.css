@@ -398,4 +398,11 @@ textarea{
  .Questionform textarea{
     width: 100%;
  }
+ .footerMain{
+    align-items: center;
+    height: 300px;
+ }
+ .privacy{
+    text-align: center;
+ }
 }
