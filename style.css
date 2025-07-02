@@ -38,7 +38,7 @@ align-items: center;
 .click{
     width: 50px;
     height: 50px;
-    background-image:url(./assects/c929cad79618f2c06431b5c9a057078af4bc1319.jpg);
+    background-image:none;
 }
 .headerMain{
     background-image: url(./assects/heroleftbackground.png);
